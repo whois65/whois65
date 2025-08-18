@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# 👋 Hi, I'm Raffiqi
+## 👋 Hi, I'm Raffiqi
 
 💻 A passionate **Full-Stack Developer** (in the making 🚀) who loves building interactive web apps, exploring backend systems, and experimenting with new technologies.
 
@@ -18,7 +18,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="20">
   
   <!-- Pascal -->
-  <img src="https://img.shields.io/badge/Pascal-008080?style=for-the-badge&logo=delphi&logoColor=white" height="20"/>
+  <img src="https://img.shields.io/badge/Pascal-008080?style=for-the-badge&logo=delphi&logoColor=white" height="21"/>
   
   <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20">
@@ -58,6 +58,7 @@
 ---
 
 ⭐️ *"Code, Learn, Repeat."*
+
 <!--
 **whois65/whois65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
