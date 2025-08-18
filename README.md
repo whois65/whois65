@@ -1,9 +1,20 @@
 ## Hi there 👋
+
 # 👋 Hi, I'm Raffiqi
 
 💻 A passionate **Full-Stack Developer** (in the making 🚀) who loves building interactive web apps, exploring backend systems, and experimenting with new technologies.
 
 ---
+
+### 🛠️ Languages & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
 
 ### 🛠️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript (React soon 🔥)
