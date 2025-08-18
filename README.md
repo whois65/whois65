@@ -1,5 +1,41 @@
 ## Hi there 👋
+# 👋 Hi, I'm Raffiqi
 
+💻 A passionate **Full-Stack Developer** (in the making 🚀) who loves building interactive web apps, exploring backend systems, and experimenting with new technologies.
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, JavaScript (React soon 🔥)
+- **Backend**: Python (Flask), Node.js (coming up 👀)
+- **Database**: MySQL, MongoDB (learning phase)
+- **Other**: Git, Linux CLI, Bash scripting
+
+---
+
+### 🌱 Currently Learning
+- Advanced JavaScript (ES6+)
+- Backend with Flask & APIs
+- Machine Learning basics 🤖
+- Japanese 🇯🇵 & Chinese 中文 languages (because why not 😁)
+
+---
+
+### 📈 GitHub Stats
+![Hamada's GitHub stats](https://github-readme-stats.vercel.app/api?username=whois65&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whois65&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 🌐 [Portfolio Website](https://whois65.github.io/portfolio/index.html)  
+- ✉️ Reach me at **raffi652009@gmail.com**
+
+---
+
+⭐️ *"Code, Learn, Repeat."*
 <!--
 **whois65/whois65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
