@@ -1,22 +1,22 @@
 # 👋 Hi there, I'm Raffiqi
 
-🚀 **Student Developer & Tech Explorer**  
+**Student Developer & Tech Explorer**  
 I enjoy learning how software works — from web interfaces to backend logic and system-level programming.
 
-> *Still learning. Still curious. Still building.*
+> *Still learning.*
 
 ---
 
-## 🧠 About Me
-- 🎓 Student exploring **Computer Science & Software Development**
-- 💻 Interested in **programming, systems, and problem-solving**
-- 🐧 Linux user who enjoys working in the terminal
-- 🌱 Learning by building small projects & breaking things (then fixing them 😄)
-- 🌏 Studying **Japanese 🇯🇵 & Chinese 中文**
+## About Me
+- Student exploring **Computer Science & Software Development**
+- Interested in **programming, math, systems, and problem-solving**
+- Linux user who enjoys working in the terminal
+- Learning by building small projects & breaking things
+- Studying **Japanese 🇯🇵**
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <!-- Web -->
@@ -41,19 +41,20 @@ I enjoy learning how software works — from web interfaces to backend logic and
 
 ## ⚙️ What I'm Exploring
 - Web fundamentals (HTML, CSS, JavaScript)
-- Backend basics with Python (Flask)
+- Backend basics with Python (Flask) and Nodejs (express)
 - Low-level programming with C / C++
 - Databases & data handling
+- Android basics
 - Linux & command-line tools
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 - JavaScript (ES6+)
-- Python for backend & automation
+- Python and Nodejs for backend & automation
 - System programming basics
-- Machine Learning fundamentals 🤖
-- Languages: Japanese & Chinese 🌏
+- Software Development
+- Languages: Japanese
 
 ---
 
@@ -65,10 +66,8 @@ I enjoy learning how software works — from web interfaces to backend logic and
 ---
 
 ## 🔗 Connect With Me
-- 🌐 Portfolio: https://whois65.github.io/portfolio/index.html
-- 💼 LinkedIn: https://www.linkedin.com/
-- ✉️ Email: raffi652009@gmail.com
+- Portfolio: https://whois65.github.io/portfolio/index.html
+- LinkedIn: https://www.linkedin.com/
+- Email: raffi652009@gmail.com
 
 ---
-
-⭐ *“Learning in public. Building step by step.”*
