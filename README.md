@@ -12,7 +12,7 @@ I enjoy learning how software works — from web interfaces to backend logic and
 - Interested in **programming, math, systems, and problem-solving**
 - Linux user who enjoys working in the terminal
 - Learning by building small projects & breaking things
-- Studying **Japanese 🇯🇵**
+- Studying **Japanese and Chinese**
 
 ---
 
@@ -39,7 +39,7 @@ I enjoy learning how software works — from web interfaces to backend logic and
 
 ---
 
-## ⚙️ What I'm Exploring
+## What I'm Exploring
 - Web fundamentals (HTML, CSS, JavaScript)
 - Backend basics with Python (Flask) and Nodejs (express)
 - Low-level programming with C / C++
@@ -54,20 +54,20 @@ I enjoy learning how software works — from web interfaces to backend logic and
 - Python and Nodejs for backend & automation
 - System programming basics
 - Software Development
-- Languages: Japanese
+- Game Development (Unity)
+- Languages: Japanese and Chinese
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whois65&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whois65&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 - Portfolio: https://whois65.github.io/portfolio/index.html
-- LinkedIn: https://www.linkedin.com/
-- Email: raffi652009@gmail.com
+- Email: raffiqi226@gmail.com
 
 ---
