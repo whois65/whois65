@@ -67,7 +67,7 @@ I enjoy learning how software works — from web interfaces to backend logic and
 ---
 
 ## Connect With Me
-- Portfolio: https://whois65.github.io/portfolio/index.html
+- Portfolio: https://whois65.github.io/website
 - Email: raffiqi226@gmail.com
 
 ---
